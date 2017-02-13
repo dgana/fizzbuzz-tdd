@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgana/fizzbuzz-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgana/fizzbuzz-tdd/issues"
+  },
+  "homepage": "https://github.com/dgana/fizzbuzz-tdd#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-arrays": "0.0.1"
+  }
+}
